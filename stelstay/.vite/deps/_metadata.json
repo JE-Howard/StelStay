@@ -1,0 +1,71 @@
+{
+  "hash": "f1cdcff0",
+  "browserHash": "10e32418",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "7a60929f",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "ab0f0dbe",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "c6ab9b6f",
+      "needsInterop": false
+    },
+    "react-admin": {
+      "src": "../../node_modules/react-admin/dist/esm/index.js",
+      "file": "react-admin.js",
+      "fileHash": "bfea971f",
+      "needsInterop": false
+    },
+    "pocketbase": {
+      "src": "../../node_modules/pocketbase/dist/pocketbase.es.mjs",
+      "file": "pocketbase.js",
+      "fileHash": "fdf75133",
+      "needsInterop": false
+    },
+    "@mui/material/Card": {
+      "src": "../../node_modules/@mui/material/Card/index.js",
+      "file": "@mui_material_Card.js",
+      "fileHash": "46a1c1a2",
+      "needsInterop": false
+    },
+    "@mui/material/CardContent": {
+      "src": "../../node_modules/@mui/material/CardContent/index.js",
+      "file": "@mui_material_CardContent.js",
+      "fileHash": "7bdff3e2",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-OTY6O57J": {
+      "file": "chunk-OTY6O57J.js"
+    },
+    "chunk-EBM3H3MO": {
+      "file": "chunk-EBM3H3MO.js"
+    },
+    "chunk-5NIRACY2": {
+      "file": "chunk-5NIRACY2.js"
+    },
+    "chunk-JJ4WW736": {
+      "file": "chunk-JJ4WW736.js"
+    },
+    "chunk-TGDRBGU4": {
+      "file": "chunk-TGDRBGU4.js"
+    },
+    "chunk-2PA4WPI3": {
+      "file": "chunk-2PA4WPI3.js"
+    },
+    "chunk-ROME4SDB": {
+      "file": "chunk-ROME4SDB.js"
+    }
+  }
+}

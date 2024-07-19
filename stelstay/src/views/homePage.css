@@ -1,0 +1,51 @@
+/* styles.css */
+#container {
+    text-align: center;
+    background: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4vh;
+}
+
+#buttonbox #logo {
+    width: 5vh;
+}
+
+#header {
+    font-size: 5vh;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#buttonBox {
+    background: linear-gradient(to bottom, #D095D5,#E3AE8F, #F9CB41);
+    padding: 5vh;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+    max-width: 50vh;
+    max-height: 70vh;
+    margin: 0 auto;
+}
+
+#buttonBox h1 {
+    color: black;
+}
+
+#adminButton, #userButton, #registerButton {
+    display: block;
+    margin: 1vh auto;
+    padding: 1.5vh 1.5vh;
+    width: 20vh;
+    background: #ED7A75;
+    color: black;
+    border-radius: 30px;
+    text-decoration: none;
+    font-size: 2.25vh;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+

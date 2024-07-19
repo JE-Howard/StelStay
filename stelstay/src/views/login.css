@@ -1,0 +1,49 @@
+
+#container {
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 5vh;
+}
+
+#buttonbox #logo {
+    width: 5vh;
+}
+
+#buttonBox {
+    background: linear-gradient(to bottom, #D095D5, #E3AE8F, #F9CB41);
+    padding: 6vh;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+    max-width: 55vh;
+    width: 55vh;
+    max-height: 70vh;
+    margin: 0 auto;
+}
+
+#buttonBox h1 {
+    color: black;
+}
+
+#loginButton, #welcomePageButton {
+    display: block;
+    margin: 1.5vh auto;
+    padding: 1.5vh 1.5vh;
+    width: 20vh;
+    background: #ED7A75;
+    color: white;
+    border-radius: 30px;
+    text-decoration: none;
+    font-size: 2.25vh;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+#usernameInput, #passwordInput {
+    border-radius: 30px;
+    padding: 1.5vh 1.5vh;
+    
+}
+

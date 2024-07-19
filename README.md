@@ -10,13 +10,13 @@ To get started with StelsStay, follow these steps:
 
 Open your terminal and change to the project directory:
 
-    `cd my-react-admin-app`
+    cd my-react-admin-app
 
 ### Start the React Application
 
 Run the development server for the React application:
 
-    `npm run dev`
+    npm run dev
 
 ### Open a New Terminal
 
@@ -26,7 +26,7 @@ You'll need another terminal window for the next steps.
 
 In the new terminal, start the PocketBase server:
 
-    `./pocketbase serve`
+    ./pocketbase serve
 
 ### Access the PocketBase UI
 
